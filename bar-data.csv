@@ -1,0 +1,12 @@
+command,value
+tar,4
+cd,11
+configure,3
+sudo,16
+export,1
+*,1
+mkdir,1
+gcc,61
+sh,2
+man,20
+test,20
